@@ -1,0 +1,17 @@
+D:\C#\SWE_Project\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe.config
+D:\C#\SWE_Project\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe
+D:\C#\SWE_Project\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.pdb
+D:\C#\SWE_Project\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.AssemblyReference.cache
+D:\C#\SWE_Project\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.FormLogin.resources
+D:\C#\SWE_Project\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.Properties.Resources.resources
+D:\C#\SWE_Project\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.GenerateResource.cache
+D:\C#\SWE_Project\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.CoreCompileInputs.cache
+D:\C#\SWE_Project\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.exe
+D:\C#\SWE_Project\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.pdb
+D:\C#\SWE_Project\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.FormSignUp.resources
+D:\C#\SWE_Project\EmployeeApplication\EmployeeApplication\bin\Debug\DatabaseEmployeeApp.mdf
+D:\C#\SWE_Project\EmployeeApplication\EmployeeApplication\bin\Debug\DatabaseEmployeeApp_log.ldf
+D:\C#\SWE_Project\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe.manifest
+D:\C#\SWE_Project\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.application
+D:\C#\SWE_Project\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.exe.manifest
+D:\C#\SWE_Project\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.application
